@@ -1,6 +1,5 @@
-# ASP.NET-Core-Projects
+# ASP.NET Core projects
 
-ASP.NET Core Projects...
 
 ## Table of Contents
 + [Requirements](#Requirements)
