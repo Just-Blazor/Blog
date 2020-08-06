@@ -35,7 +35,8 @@ ASP.NET Core Projects...
 ### <a name="Basics"></a> Basics
 
 #### [01 - Crud](Crud.md)
-Basic Crud
+Basic and verbose example for getting a CRUD in to the ASP.NET Core. This is meant as a starting 
+point for learning ASP.NET Core and EF from the ground up.
 
 
 ### <a name="Misc"></a> Misc
