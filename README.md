@@ -34,7 +34,7 @@ ASP.NET Core Projects...
 
 ### <a name="Basics"></a> Basics
 
-#### [01 - Triangle](Crud.md)
+#### [01 - Crud](Crud.md)
 Basic Crud
 
 
