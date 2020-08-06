@@ -29,8 +29,7 @@ namespace Crud.Controllers
                 return NotFound();
             }
 
-            User user = await _context.Users
-                .FirstOrDefaultAsync(m => m.Id == id);
+            User user = await _context.Users.FirstOrDefaultAsync(m => m.Id == id);
             if (user == null)
             {
                 return NotFound();
@@ -113,8 +112,7 @@ namespace Crud.Controllers
                 return NotFound();
             }
 
-            User user = await _context.Users
-                .FirstOrDefaultAsync(m => m.Id == id);
+            User user = await _context.Users.FirstOrDefaultAsync(m => m.Id == id);
             if (user == null)
             {
                 return NotFound();

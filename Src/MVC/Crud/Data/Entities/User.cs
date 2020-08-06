@@ -26,7 +26,5 @@ namespace Crud.Data.Entities
         public string PhoneNumber { get; set; }
 
         public string City { get; set; }
-
-
     }
 }

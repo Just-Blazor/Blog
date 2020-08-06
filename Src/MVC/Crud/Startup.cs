@@ -29,7 +29,7 @@ namespace Crud
 
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlite(Configuration.GetConnectionString("DefaultConnection"))
-                );
+            );
 
 
             //services.AddMvc();
@@ -53,8 +53,6 @@ namespace Crud
             app.UseStaticFiles();
             app.UseRouting();
 
-            //app.UseWelcomePage();
-            //app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
