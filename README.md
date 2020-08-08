@@ -11,15 +11,11 @@
 <hr>
 
 
-<br>
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Zeckoxe/Zeckoxe-Engine/blob/master/LICENSE)
 
 The code is licensed under MIT. Feel free to use it for whatever purpose.
 
 <hr>
-<br>
-
 
 ## Table of Contents
 + [Requirements](#Requirements)
@@ -45,7 +41,6 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 
 1. Clone or download source code
 2. Run application in Visual Studio or using your code editor
-3. Use admin/admin to log in
 
 
 
