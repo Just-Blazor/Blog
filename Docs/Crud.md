@@ -11,5 +11,8 @@
 
 ## Gallery
 
-![Index](index.png)
+![Index](https://github.com/FaberSanZ/ASP.NET-Core-Samples/blob/master/Img/MVC/Crud/Index.PNG)
+![Index](https://github.com/FaberSanZ/ASP.NET-Core-Samples/blob/master/Img/MVC/Crud/Details.PNG)
+![Index](https://github.com/FaberSanZ/ASP.NET-Core-Samples/blob/master/Img/MVC/Crud/Edit.PNG)
+![Index](https://github.com/FaberSanZ/ASP.NET-Core-Samples/blob/master/Img/MVC/Crud/Delete.PNG)
 
