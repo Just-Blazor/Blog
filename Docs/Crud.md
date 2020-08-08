@@ -11,18 +11,19 @@
 ## Gallery
 
 <br>
-#### Index
+
+### Index
 ![Index](https://github.com/FaberSanZ/ASP.NET-Core-Samples/blob/master/Img/MVC/Crud/Index.PNG)
 <br>
 
-#### Details
+### Details
 ![Index](https://github.com/FaberSanZ/ASP.NET-Core-Samples/blob/master/Img/MVC/Crud/Details.PNG)
 <br>
 
-#### Edit
+### Edit
 ![Index](https://github.com/FaberSanZ/ASP.NET-Core-Samples/blob/master/Img/MVC/Crud/Edit.PNG)
 <br>
 
-#### Delete
+### Delete
 ![Index](https://github.com/FaberSanZ/ASP.NET-Core-Samples/blob/master/Img/MVC/Crud/Delete.PNG)
 
