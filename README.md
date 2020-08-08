@@ -1,4 +1,4 @@
-# ASP.NET Core projects
+# ASP.NET Core Samples
 
 
 ## Table of Contents
