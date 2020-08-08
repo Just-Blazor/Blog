@@ -1,4 +1,24 @@
-# ASP.NET Core Samples
+# 
+
+<h1 align="center">
+   ASP.NET Core Samples
+  <br>
+  
+  ## The goal of this repository is to allow [.NET](https://dotnet.microsoft.com/) programmers to learn the new [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core) stack from scratch directly from code. There is a lot of power in the underlying[ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core) and [Entity Framework Core](https://docs.microsoft.com/en-us/ef/) stack.
+  
+</h1>
+
+<hr>
+
+
+<br>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Zeckoxe/Zeckoxe-Engine/blob/master/LICENSE)
+
+The code is licensed under MIT. Feel free to use it for whatever purpose.
+
+<hr>
+<br>
 
 
 ## Table of Contents
