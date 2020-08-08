@@ -1,6 +1,5 @@
 <h1 align="center">
    Crud
-  <br>
 </h1>
 
 <hr>
