@@ -6,7 +6,7 @@
 + [Started](#Started)
 + [Examples](#Examples)
     + [Basics](#Basics)
-    + [Advanced](#Advanced)
+    + [Login](#Login)
     + [Misc](#Misc)
 + [Credits and Attributions](#CreditsAttributions)
 
@@ -33,7 +33,7 @@
 
 ### <a name="Basics"></a> Basics
 
-#### [01 - Crud](Docs/Crud.md)
+#### [01 - Basic Crud](Docs/Crud.md)
 Basic and verbose example for getting a CRUD in to the ASP.NET Core. This is meant as a starting 
 point for learning ASP.NET Core and Entity Framework Core from the ground up.
 
@@ -42,17 +42,31 @@ In a one-to-many relationship, a record in one table can be associated with one 
 in another table. For example, each University can have multiple courses.
 
 
+### <a name="Login"></a> Login
+#### [01 - Basic Logging](Docs/BasicLogging.md)
+#### [02 - Nlog](Docs/BasicLogging.md)
+#### [03 - Serilog](Docs/BasicLogging.md)
+#### [04 - Using Facebook](Docs/BasicLogging.md)
+#### [05 - Using Google](Docs/BasicLogging.md)
+#### [06 - Using GitHub](Docs/BasicLogging.md)
+#### [07 - Full Login using (Facebook, Google and GitHub)](Docs/Blog.md)
+
+
+### <a name="File"></a> File
+#### [01 - File](Docs/BasicLogging.md)
+
+
 ### <a name="Misc"></a> Misc
 
-#### [03 - Blog](Docs/Blog.md)
-#### [03 - Shop](Docs/Shop.md)
+#### [01 - Blog](Docs/Blog.md)
+#### [02 - Shop](Docs/Shop.md)
 #### [03 - TaxiQualifier](Docs/TaxiQualifier.md)
-#### [03 - TwitterClone](Docs/TwitterClone.md)
-#### [03 - Vet](Docs/Vet.md)
-#### [03 - Leasing](Docs/Leasing.md)
-#### [03 - InstagramClone](Docs/InstagramClone.md)
-#### [03 - GalleryApp](Docs/GalleryApp.md)
-#### [03 - FacebookClone](Docs/FacebookClone.md)
-#### [03 - RedditClone](Docs/RedditClone.md)
-#### [03 - Library](Docs/Library.md)
+#### [04 - TwitterClone](Docs/TwitterClone.md)
+#### [05 - Vet](Docs/Vet.md)
+#### [06 - Leasing](Docs/Leasing.md)
+#### [07 - InstagramClone](Docs/InstagramClone.md)
+#### [08 - GalleryApp](Docs/GalleryApp.md)
+#### [09 - FacebookClone](Docs/FacebookClone.md)
+#### [10 - RedditClone](Docs/RedditClone.md)
+#### [11 - Library](Docs/Library.md)
 
