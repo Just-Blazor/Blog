@@ -43,6 +43,10 @@ In a one-to-many relationship, a record in one table can be associated with one 
 in another table. For example, each University can have multiple courses.
 
 
+
+
+<br />
+<hr />
 ### <a name="Login"></a> Login
 #### [01 - Basic Logging](Docs/BasicLogging.md)
 #### [02 - Nlog](Docs/BasicLogging.md)
@@ -53,12 +57,17 @@ in another table. For example, each University can have multiple courses.
 #### [07 - Full Login using (Facebook, Google and GitHub)](Docs/Blog.md)
 
 
+
+<br />
+<hr />
 ### <a name="File"></a> File
 #### [01 - File](Docs/BasicLogging.md)
 
 
-### <a name="Misc"></a> Misc
 
+<br />
+<hr />
+### <a name="Misc"></a> Misc
 #### [01 - Blog](Docs/Blog.md)
 #### [02 - Shop](Docs/Shop.md)
 #### [03 - TaxiQualifier](Docs/TaxiQualifier.md)
