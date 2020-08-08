@@ -1,11 +1,11 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using Relations.Data.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using Crud.Data.Entities;
 
-namespace Crud.Data
+namespace Relations.Data
 {
     public class ApplicationDbContext : DbContext
     {
@@ -13,6 +13,7 @@ namespace Crud.Data
         {
         }
 
-        public DbSet<User> Users { get; set; }
+        public DbSet<Course> Courses { get; set; }
+        public DbSet<University> Universities { get; set; }
     }
 }

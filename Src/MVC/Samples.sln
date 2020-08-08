@@ -5,33 +5,35 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog", "Blog\Blog.csproj", "{F2009868-BFF5-4BA3-B895-88E6481230E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop", "Shop\Shop.csproj", "{FA520FEE-A86A-48F6-812A-4ED40D2DE4EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop", "Shop\Shop.csproj", "{FA520FEE-A86A-48F6-812A-4ED40D2DE4EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud", "Crud\Crud.csproj", "{A895509C-02C8-4B62-86E7-DF153152C502}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crud", "Crud\Crud.csproj", "{A895509C-02C8-4B62-86E7-DF153152C502}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClone", "TwitterClone\TwitterClone.csproj", "{305628C0-9A1D-476C-958F-132F019284BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterClone", "TwitterClone\TwitterClone.csproj", "{305628C0-9A1D-476C-958F-132F019284BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookClone", "FacebookClone\FacebookClone.csproj", "{08FE9083-ECB9-4B50-80EB-C59CC615EAD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacebookClone", "FacebookClone\FacebookClone.csproj", "{08FE9083-ECB9-4B50-80EB-C59CC615EAD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soccer", "Soccer\Soccer.csproj", "{AC5C0F53-EBDF-48E1-A8E9-F822A26299CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soccer", "Soccer\Soccer.csproj", "{AC5C0F53-EBDF-48E1-A8E9-F822A26299CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiQualifier", "TaxiQualifier\TaxiQualifier.csproj", "{DC02DA5E-70DA-4130-BEC9-FA89BDBB2D92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxiQualifier", "TaxiQualifier\TaxiQualifier.csproj", "{DC02DA5E-70DA-4130-BEC9-FA89BDBB2D92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vet", "Vet\Vet.csproj", "{266EC787-D8EB-4833-A510-016CAE9DA138}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vet", "Vet\Vet.csproj", "{266EC787-D8EB-4833-A510-016CAE9DA138}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatApp", "ChatApp\ChatApp.csproj", "{6D5147BC-7709-48D9-A332-9DCCB22B8FC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatApp", "ChatApp\ChatApp.csproj", "{6D5147BC-7709-48D9-A332-9DCCB22B8FC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leasing", "Leasing\Leasing.csproj", "{A13FB5AC-7108-4439-A88E-CD594E4D069C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leasing", "Leasing\Leasing.csproj", "{A13FB5AC-7108-4439-A88E-CD594E4D069C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditClone", "RedditClone\RedditClone.csproj", "{C52DF5D0-0502-495B-B880-783E04455E04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedditClone", "RedditClone\RedditClone.csproj", "{C52DF5D0-0502-495B-B880-783E04455E04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstagramClone", "InstagramClone\InstagramClone.csproj", "{46F8BF0C-8FA7-4355-8C31-1B0E0874F30D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstagramClone", "InstagramClone\InstagramClone.csproj", "{46F8BF0C-8FA7-4355-8C31-1B0E0874F30D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallery", "GalleryApp\Gallery.csproj", "{9848ED1F-56E1-49E9-B0B5-70A6DC2FE6EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gallery", "GalleryApp\Gallery.csproj", "{9848ED1F-56E1-49E9-B0B5-70A6DC2FE6EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{756D3B77-B491-4969-94F7-0420F604AD2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "Library\Library.csproj", "{756D3B77-B491-4969-94F7-0420F604AD2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{FADB935A-D1EA-4958-A222-0EB5E99F4F67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Login", "Login\Login.csproj", "{FADB935A-D1EA-4958-A222-0EB5E99F4F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relations", "Relations\Relations.csproj", "{9658680D-8F86-48CD-9CDB-235723191BAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{FADB935A-D1EA-4958-A222-0EB5E99F4F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FADB935A-D1EA-4958-A222-0EB5E99F4F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FADB935A-D1EA-4958-A222-0EB5E99F4F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9658680D-8F86-48CD-9CDB-235723191BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9658680D-8F86-48CD-9CDB-235723191BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9658680D-8F86-48CD-9CDB-235723191BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9658680D-8F86-48CD-9CDB-235723191BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
