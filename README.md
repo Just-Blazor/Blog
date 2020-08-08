@@ -47,7 +47,9 @@ in another table. For example, each University can have multiple courses.
 
 <br />
 <hr />
+
 ### <a name="Login"></a> Login
+
 #### [01 - Basic Logging](Docs/BasicLogging.md)
 #### [02 - Nlog](Docs/BasicLogging.md)
 #### [03 - Serilog](Docs/BasicLogging.md)
@@ -60,14 +62,18 @@ in another table. For example, each University can have multiple courses.
 
 <br />
 <hr />
+
 ### <a name="File"></a> File
+
 #### [01 - File](Docs/BasicLogging.md)
 
 
 
 <br />
 <hr />
+
 ### <a name="Misc"></a> Misc
+
 #### [01 - Blog](Docs/Blog.md)
 #### [02 - Shop](Docs/Shop.md)
 #### [03 - TaxiQualifier](Docs/TaxiQualifier.md)
