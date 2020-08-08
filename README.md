@@ -7,6 +7,7 @@
 + [Examples](#Examples)
     + [Basics](#Basics)
     + [Login](#Login)
+    + [File](#File)
     + [Misc](#Misc)
 + [Credits and Attributions](#CreditsAttributions)
 
