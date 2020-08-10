@@ -1,0 +1,25 @@
+﻿@model Post
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+
+<div >
+    <form asp-controller="Home" asp-action="Edit" method="post">
+        <div>
+            <label>Title</label>
+            <input asp-for="Title" />
+        </div>
+    
+        <div>
+            <label>Body</label>
+            <textarea asp-for="Body" id="editor"></textarea>
+        </div>
+        
+        <input type="submit" value="sutmit" />
+    </form>
+    
+</div>
+
