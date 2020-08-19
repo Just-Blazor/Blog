@@ -63,8 +63,7 @@ in another table. For example, each University can have multiple courses.
 ###### [Sampe using Blazor]()
 
 #### 03 - File
-###### [Sampe using MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations)
-###### [Sampe using Blazor]()
+###### [Sampe using MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) [Sampe using Blazor]()
 
 <br />
 <hr />
