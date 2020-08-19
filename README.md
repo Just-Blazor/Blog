@@ -49,10 +49,10 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 
 ### <a name="Basics"></a> Basics
 
-#### 01 - Basic Crud
+#### 01 - Basic Crud:  [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Crud) | [Blazor]()
 Basic and verbose example for getting a CRUD in to the ASP.NET Core. This is meant as a starting 
 point for learning ASP.NET Core and Entity Framework Core from the ground up.
-###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Crud) | [Blazor]()
+###### 
  
 <br />
 
