@@ -61,26 +61,39 @@ In a one-to-many relationship, a record in one table can be associated with one 
 in another table. For example, each University can have multiple courses.
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
  
+ <br />
 
 #### 03 - File
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 
+
+
 <br />
 <hr />
+
+
 
 ### <a name="Login"></a> Login
 
 #### Basic Logging
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 
+<br />
+
 #### Using Facebook
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
+
+<br />
 
 #### Using Google
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 
+<br />
+
 #### Using GitHub
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
+
+<br />
 
 #### Full Login using (Facebook, Google and GitHub)
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
@@ -94,34 +107,56 @@ in another table. For example, each University can have multiple courses.
 #### 01 - Blog
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 
+<br />
+
 #### 02 - Shop
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
+
+<br />
 
 #### 03 - GalleryApp
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 
+<br />
+
 #### 04 - Leasing
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
+
+<br />
 
 #### 05 - Vet
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 
+<br />
+
 #### 06 - Library
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
+
+<br />
 
 #### 07 - Slack Clone
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 
+<br />
+
 #### 08 - Twitter Clone
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
+
+<br />
 
 #### 09 - Reddit Clone
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 
+<br />
+
 #### 10 - Facebook Clone
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 
+<br />
+
 #### 11 - Instagram Clone
 ###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
+
+<br />
 
 
