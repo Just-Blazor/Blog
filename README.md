@@ -52,24 +52,25 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 #### 01 - Basic Crud
 Basic and verbose example for getting a CRUD in to the ASP.NET Core. This is meant as a starting 
 point for learning ASP.NET Core and Entity Framework Core from the ground up.
-###### [Sampe using MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Crud)
-###### [Sampe using Blazor]()
+###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Crud) | [Blazor]()
+ 
 
 
 #### 02 - Relations
 In a one-to-many relationship, a record in one table can be associated with one or more records 
 in another table. For example, each University can have multiple courses.
-###### [Sampe using MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations)
-###### [Sampe using Blazor]()
+###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
+ 
 
 #### 03 - File
-###### [Sampe using MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) [Sampe using Blazor]()
+###### [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 
 <br />
 <hr />
 
 ### <a name="Login"></a> Login
 
+### [x] Clean up and publish binding generator as stand-alone tool
 #### Basic Logging
 #### Using Facebook
 #### Using Google
