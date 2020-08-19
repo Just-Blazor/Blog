@@ -49,17 +49,17 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 
 ### <a name="Basics"></a> Basics
 
-#### {01 - Basic Crud:}  [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Crud) | [Blazor]()
+#### { 01 - Basic Crud: }  [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Crud) | [Blazor]()
 Basic and verbose example for getting a CRUD in to the ASP.NET Core. This is meant as a starting 
 point for learning ASP.NET Core and Entity Framework Core from the ground up. 
  
 
-#### {02 - Relations:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
+#### { 02 - Relations: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
 In a one-to-many relationship, a record in one table can be associated with one or more records 
 in another table. For example, each University can have multiple courses. 
  
 
-#### {03 - File:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 03 - File: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
 
@@ -70,56 +70,56 @@ in another table. For example, each University can have multiple courses.
 
 ### <a name="Login"></a> Login
 
-#### {01 - Basic Logging:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 01 - Basic Logging: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {02 - Using Facebook:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 02 - Using Facebook: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {03 - Using Google:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 03 - Using Google: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {04 - Using GitHub:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 04 - Using GitHub: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {04 - Full Login using (Facebook, Google and GitHub):} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 04 - Full Login using (Facebook, Google and GitHub): } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 <br />
 <hr />
 
 ### <a name="Misc"></a> Misc
 
-#### {01 - Blog:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 01 - Blog: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {02 - Shop:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 02 - Shop: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {03 - GalleryApp:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 03 - GalleryApp: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {04 - Leasing:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 04 - Leasing: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {05 - Vet:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 05 - Vet: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {06 - Library:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 06 - Library: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {07 - Slack Clone:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 07 - Slack Clone: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {08 - Twitter Clone:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 08 - Twitter Clone: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {09 - Reddit Clone:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 09 - Reddit Clone: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {10 - Facebook Clone:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 10 - Facebook Clone: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
-#### {11 - Instagram Clone:} [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 11 - Instagram Clone: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 
 
