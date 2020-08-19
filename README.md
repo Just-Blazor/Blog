@@ -49,39 +49,33 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 
 ### <a name="Basics"></a> Basics
 
-#### [01 - Basic Crud](Docs/Crud.md)
+#### 01 - Basic Crud
 Basic and verbose example for getting a CRUD in to the ASP.NET Core. This is meant as a starting 
 point for learning ASP.NET Core and Entity Framework Core from the ground up.
+###### [Sampe using MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Crud)
+###### [Sampe using Blazor]()
 
-#### [01 - Relations](Docs/Relations.md)
+
+#### 02 - Relations
 In a one-to-many relationship, a record in one table can be associated with one or more records 
 in another table. For example, each University can have multiple courses.
+###### [Sampe using MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations)
+###### [Sampe using Blazor]()
 
-
-
+#### 03 - File
+###### [Sampe using MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations)
+###### [Sampe using Blazor]()
 
 <br />
 <hr />
 
 ### <a name="Login"></a> Login
 
-#### [01 - Basic Logging](Docs/BasicLogging.md)
-#### [02 - Nlog](Docs/BasicLogging.md)
-#### [03 - Serilog](Docs/BasicLogging.md)
-#### [04 - Using Facebook](Docs/BasicLogging.md)
-#### [05 - Using Google](Docs/BasicLogging.md)
-#### [06 - Using GitHub](Docs/BasicLogging.md)
-#### [07 - Full Login using (Facebook, Google and GitHub)](Docs/Blog.md)
-
-
-
-<br />
-<hr />
-
-### <a name="File"></a> File
-
-#### [01 - File](Docs/BasicLogging.md)
-
+#### Basic Logging
+#### Using Facebook
+#### Using Google
+#### Using GitHub
+#### Full Login using (Facebook, Google and GitHub)
 
 
 <br />
@@ -89,15 +83,15 @@ in another table. For example, each University can have multiple courses.
 
 ### <a name="Misc"></a> Misc
 
-#### [01 - Blog](Docs/Blog.md)
-#### [02 - Shop](Docs/Shop.md)
-#### [03 - GalleryApp](Docs/GalleryApp.md)
-#### [04 - Leasing](Docs/FacebookClone.md)
-#### [05 - Vet](Docs/RedditClone.md)
-#### [06 - Library](Docs/Library.md)
-#### [07 - Slack Clone](Docs/TaxiQualifier.md)
-#### [08 - Twitter Clone](Docs/TwitterClone.md)
-#### [09 - Reddit Clone](Docs/Vet.md)
-#### [10 - Facebook Clone](Docs/Leasing.md)
-#### [11 - Instagram Clone](Docs/InstagramClone.md)
+#### 01 - Blog
+#### 02 - Shop
+#### 03 - GalleryApp
+#### 04 - Leasing
+#### 05 - Vet
+#### 06 - Library
+#### 07 - Slack Clone
+#### 08 - Twitter Clone
+#### 09 - Reddit Clone
+#### 10 - Facebook Clone
+#### 11 - Instagram Clone
 
