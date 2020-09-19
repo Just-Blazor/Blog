@@ -25,18 +25,14 @@ namespace Crud.Controllers
 
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
 
             User user = await _context.Users.FirstOrDefaultAsync(m => m.Id == id);
-            if (user == null)
-            {
-                return NotFound();
-            }
 
-            return View(user);
+            return user is not null ? View(user) : NotFound() as IActionResult;
         }
 
         public IActionResult Create()
@@ -52,7 +48,9 @@ namespace Crud.Controllers
             if (ModelState.IsValid)
             {
                 _context.Users.Add(user);
+
                 await _context.SaveChangesAsync();
+
                 return RedirectToAction(nameof(Index));
             }
             return View(user);
@@ -60,17 +58,14 @@ namespace Crud.Controllers
 
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
 
             User user = await _context.Users.FindAsync(id);
-            if (user == null)
-            {
-                return NotFound();
-            }
-            return View(user);
+
+            return user is not null ? View(user) : NotFound() as IActionResult;
         }
 
 
@@ -108,18 +103,14 @@ namespace Crud.Controllers
 
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
 
             User user = await _context.Users.FirstOrDefaultAsync(m => m.Id == id);
-            if (user == null)
-            {
-                return NotFound();
-            }
 
-            return View(user);
+            return user is not null ? View(user) : NotFound() as IActionResult;
         }
 
         [HttpPost, ActionName("Delete")]
@@ -129,6 +120,7 @@ namespace Crud.Controllers
             User user = await _context.Users.FindAsync(id);
             _context.Users.Remove(user);
             await _context.SaveChangesAsync();
+
             return RedirectToAction(nameof(Index));
         }
 

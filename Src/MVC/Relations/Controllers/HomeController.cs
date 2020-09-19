@@ -22,10 +22,7 @@ namespace Relations.Controllers
 
         public async Task<IActionResult> Index()
         {
-            return View(await _context
-                .Universities
-                .Include(t => t.Groups)
-                .ToListAsync());
+            return View(await _context.Universities.Include(t => t.Groups).ToListAsync());
         }
 
         public IActionResult Create()
@@ -34,7 +31,6 @@ namespace Relations.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(University model)
         {
             if (ModelState.IsValid)
@@ -50,7 +46,7 @@ namespace Relations.Controllers
 
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
@@ -65,7 +61,6 @@ namespace Relations.Controllers
         }
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(University model)
         {
             if (ModelState.IsValid)
@@ -81,7 +76,7 @@ namespace Relations.Controllers
 
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
@@ -90,7 +85,7 @@ namespace Relations.Controllers
                 .Include(t => t.Groups)
                 .FirstOrDefaultAsync(m => m.Id == id);
 
-            if (university == null)
+            if (university is null)
             {
                 return NotFound();
             }
@@ -103,7 +98,7 @@ namespace Relations.Controllers
         [HttpPost]
         public async Task<IActionResult> DeleteConfirmed(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
@@ -111,7 +106,8 @@ namespace Relations.Controllers
             University university = await _context.Universities
                 .Include(g => g.Groups)
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (university == null)
+
+            if (university is null)
             {
                 return NotFound();
             }
@@ -124,7 +120,7 @@ namespace Relations.Controllers
 
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
@@ -133,7 +129,7 @@ namespace Relations.Controllers
                 .Include(t => t.Groups)
                 .FirstOrDefaultAsync(m => m.Id == id);
 
-            if (university == null)
+            if (university is null)
             {
                 return NotFound();
             }
@@ -143,13 +139,13 @@ namespace Relations.Controllers
 
         public async Task<IActionResult> AddCourse(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
 
             University university = await _context.Universities.FindAsync(id);
-            if (university == null)
+            if (university is null)
             {
                 return NotFound();
             }
@@ -171,12 +167,14 @@ namespace Relations.Controllers
         {
             if (ModelState.IsValid)
             {
+                bool isnew = true;
+
                 CourseViewModel courseView = new CourseViewModel
                 {
-                    Id = true ? 0 : model.Id,
+                    Id = isnew ? 0 : model.Id, // TODO:
                     Name = model.Name,
                     University = await _context.Universities.FindAsync(model.UniversityId)
-                };// await _converterHelper.ToGroupEntityAsync(model, true);
+                };
                 _context.Add(courseView);
                 await _context.SaveChangesAsync();
 
@@ -191,7 +189,7 @@ namespace Relations.Controllers
 
         public async Task<IActionResult> EditCourse(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
@@ -200,7 +198,7 @@ namespace Relations.Controllers
                 .Include(g => g.University)
                 .FirstOrDefaultAsync(g => g.Id == id);
 
-            if (course == null)
+            if (course is null)
             {
                 return NotFound();
             }
@@ -235,7 +233,10 @@ namespace Relations.Controllers
                 University university = await _context.Universities
                 .Include(t => t.Groups).FirstOrDefaultAsync(m => m.Id == model.UniversityId);
 
-                return RedirectToAction("Details", "Home", new { id = university.Id });
+                return RedirectToAction("Details", "Home", new 
+                { 
+                    id = university.Id 
+                });
             }
 
             return View(model);
@@ -243,7 +244,7 @@ namespace Relations.Controllers
 
         public async Task<IActionResult> DeleteCourse(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
@@ -252,7 +253,7 @@ namespace Relations.Controllers
                 .Include(g => g.University)
                 .FirstOrDefaultAsync(g => g.Id == id);
 
-            if (course == null)
+            if (course is null)
             {
                 return NotFound();
             }
@@ -274,7 +275,7 @@ namespace Relations.Controllers
         [HttpPost]
         public async Task<IActionResult> DeleteCourseConfirmed(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
@@ -282,7 +283,8 @@ namespace Relations.Controllers
             Course course = await _context.Courses
                 .Include(g => g.University)
                 .FirstOrDefaultAsync(m => m.Id == id);
-            if (course == null)
+
+            if (course is null)
             {
                 return NotFound();
             }
@@ -296,7 +298,7 @@ namespace Relations.Controllers
 
         public async Task<IActionResult> DetailsCourse(int? id)
         {
-            if (id == null)
+            if (id is null)
             {
                 return NotFound();
             }
@@ -304,7 +306,8 @@ namespace Relations.Controllers
             Course course = await _context.Courses
                 .Include(g => g.University)
                 .FirstOrDefaultAsync(g => g.Id == id);
-            if (course == null)
+
+            if (course is null)
             {
                 return NotFound();
             }
@@ -324,7 +327,10 @@ namespace Relations.Controllers
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(new ErrorViewModel 
+            { 
+                RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier 
+            });
         }
     }
 }
