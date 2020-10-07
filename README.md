@@ -51,7 +51,7 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 
 
 <img src="GitStuff/tick.png" width="16" height="16"> [01 - Basic Crud: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
-Basic and verbose example for getting a CRUD in to the Blazor. This is meant as a starting 
+Basic and verbose example for getting a CRUD in Blazor. This is meant as a starting 
 point for learning Blazor Core and Entity Framework Core from the ground up. 
  
 <br />
