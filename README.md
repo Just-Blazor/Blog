@@ -22,6 +22,8 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 + [Started](#Started)
 + [Examples](#Examples)
     + [Basics](#Basics)
+    + [File](#File)
+    + [Entity Framework Core](#EntityFramework)
     + [Login](#Login)
     + [File](#File)
     + [Misc](#Misc)
@@ -50,6 +52,8 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 ### <a name="Basics"></a> Basics
 
 
+### <a name="EntityFramework"></a> Entity Framework Core
+
 <img src="GitStuff/tick.png" width="16" height="16"> [01 - Basic Crud: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 Basic and verbose example for getting a CRUD in Blazor. This is meant as a starting 
 point for learning Blazor Core and Entity Framework Core from the ground up. 
@@ -62,7 +66,10 @@ in another table. For example, each University can have multiple courses.
 
 <br />
 
-<img src="GitStuff/wip.ico" width="16" height="16"> [03 - File: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+
+### <a name="File"></a> File
+
+<img src="GitStuff/wip.ico" width="16" height="16"> [01 - File: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 
 
 
