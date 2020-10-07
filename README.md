@@ -52,15 +52,13 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 GitStuff
 
 
-<img src="GitStuff/tick.png" width="16" height="16"> [01 - Basic Crud:](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
-<br />
+<img src="GitStuff/tick.png" width="16" height="16"> [01 - Basic Crud: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 Basic and verbose example for getting a CRUD in to the Blazor. This is meant as a starting 
 point for learning ASP.NET Core and Entity Framework Core from the ground up. 
  
-
-
-> <img src="GitStuff/wip.ico" width="16" height="16"> [02 - Relations: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 <br />
+
+<img src="GitStuff/wip.ico" width="16" height="16"> [02 - Relations: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 In a one-to-many relationship, a record in one table can be associated with one or more records 
 in another table. For example, each University can have multiple courses. 
  
