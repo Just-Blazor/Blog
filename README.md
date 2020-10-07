@@ -59,9 +59,10 @@ point for learning ASP.NET Core and Entity Framework Core from the ground up.
 <img src="GitStuff/wip.ico" width="16" height="16"> [02 - Relations: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 In a one-to-many relationship, a record in one table can be associated with one or more records 
 in another table. For example, each University can have multiple courses. 
- 
 
-<img src="GitStuff/wip.ico" width="16" height="16"> [03 - File: ]() 
+<br />
+
+<img src="GitStuff/wip.ico" width="16" height="16"> [03 - File: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 
 
 
@@ -77,37 +78,50 @@ in another table. For example, each University can have multiple courses.
 
 ### <a name="Misc"></a> Misc
 
-#### { 01 - Blog: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [01 - Blog: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
 
 
-#### { 02 - Shop: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [02 - Shop: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
 
 
-#### { 03 - GalleryApp: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [03 - GalleryApp: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
 
 
-#### { 04 - Leasing: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [04 - Leasing: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
 
 
-#### { 05 - Vet: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [05 - Vet: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
 
 
-#### { 06 - Library: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [06 - Library: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
 
 
-#### { 07 - Slack Clone: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [07 - Slack Clone: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
 
 
-#### { 08 - Twitter Clone: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [08 - Twitter Clone: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
 
 
-#### { 09 - Reddit Clone: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [09 - Reddit Clone: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
 
 
-#### { 10 - Facebook Clone: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [10 - Facebook Clone: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
 
 
-#### { 11 - Instagram Clone: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+<img src="GitStuff/wip.ico" width="16" height="16"> [11 - Instagram Clone: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
+<br />
+
+
 
 
 
