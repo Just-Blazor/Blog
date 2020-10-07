@@ -4,7 +4,7 @@
    Blazor Samples
   <br>
   
-  #### The goal of this repository is to allow [.NET](https://dotnet.microsoft.com/) programmers to learn the new [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core) stack from scratch directly from code. There is a lot of power in the underlying [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core) and [Entity Framework Core](https://docs.microsoft.com/en-us/ef/) stack.
+  #### The goal of this repository is to allow [.NET](https://dotnet.microsoft.com/) programmers to learn the new [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) stack from scratch directly from code. There is a lot of power in the underlying [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) and [Entity Framework Core](https://docs.microsoft.com/en-us/ef/) stack.
   
 </h1>
 
@@ -49,17 +49,17 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 
 ### <a name="Basics"></a> Basics
 
-#### { 01 - Basic Crud: }  [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Crud) | [Blazor]()
-Basic and verbose example for getting a CRUD in to the ASP.NET Core. This is meant as a starting 
+#### { 01 - Basic Crud: }  [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Crud) 
+Basic and verbose example for getting a CRUD in to the Blazor. This is meant as a starting 
 point for learning ASP.NET Core and Entity Framework Core from the ground up. 
  
 
-#### { 02 - Relations: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]()
+#### { 02 - Relations: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) 
 In a one-to-many relationship, a record in one table can be associated with one or more records 
 in another table. For example, each University can have multiple courses. 
  
 
-#### { 03 - File: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
+#### { 03 - File: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) 
 
 
 
@@ -69,20 +69,6 @@ in another table. For example, each University can have multiple courses.
 
 
 ### <a name="Login"></a> Login
-
-#### { 01 - Basic Logging: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
-
-
-#### { 02 - Using Facebook: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
-
-
-#### { 03 - Using Google: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
-
-
-#### { 04 - Using GitHub: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
-
-
-#### { 04 - Full Login using (Facebook, Google and GitHub): } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) | [Blazor]() 
 
 <br />
 <hr />
