@@ -1,7 +1,7 @@
 # 
 
 <h1 align="center">
-   ASP.NET Core Samples
+   Blazor Samples
   <br>
   
   #### The goal of this repository is to allow [.NET](https://dotnet.microsoft.com/) programmers to learn the new [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core) stack from scratch directly from code. There is a lot of power in the underlying [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core) and [Entity Framework Core](https://docs.microsoft.com/en-us/ef/) stack.
