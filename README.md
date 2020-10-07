@@ -49,8 +49,6 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 
 ### <a name="Basics"></a> Basics
 
-GitStuff
-
 
 <img src="GitStuff/tick.png" width="16" height="16"> [01 - Basic Crud: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 Basic and verbose example for getting a CRUD in to the Blazor. This is meant as a starting 
@@ -63,7 +61,7 @@ In a one-to-many relationship, a record in one table can be associated with one 
 in another table. For example, each University can have multiple courses. 
  
 
-#### { 03 - File: } [MVC](https://github.com/FaberSanZ/ASP.NET-Core-Samples/tree/master/Src/MVC/Relations) 
+<img src="GitStuff/wip.ico" width="16" height="16"> [03 - File: ]() 
 
 
 
