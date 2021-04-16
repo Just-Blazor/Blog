@@ -4,7 +4,7 @@
    Blazor Samples
   <br>
   
-  #### The goal of this repository is to allow [.NET](https://dotnet.microsoft.com/) programmers to learn the new [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) stack from scratch directly from code. There is a lot of power in the underlying [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) and [Entity Framework Core](https://docs.microsoft.com/en-us/ef/) stack.
+  #### The goal of this repository is to allow [.NET](https://dotnet.microsoft.com/) programmers to learn the new [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) stack from scratch directly from code. 
   
 </h1>
 
