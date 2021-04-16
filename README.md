@@ -28,7 +28,7 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 ## <a name="Requirements"></a> System Requirements
 
 * Windows, Mac or Linux
-* ASP.NET Core 3.1
+* ASP.NET 5
 * Visual Studio 2019, VS Code or other code editor (Atom, Sublime etc)
 * SQLite by default, MS SQL Server, PostgreSQL and MySQL out of the box, EF compatible databases should work
 
