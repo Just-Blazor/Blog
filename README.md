@@ -53,7 +53,7 @@ point for learning Blazor and Entity Framework Core from the ground up.
 
 <img src="GitStuff/wip.ico" width="16" height="16"> [02 - Relations: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 In a one-to-many relationship, a record in one table can be associated with one or more records 
-in another table. For example, each University can have multiple courses. 
+in another table. 
 
 <br />
 
