@@ -21,13 +21,7 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 + [Requirements](#Requirements)
 + [Started](#Started)
 + [Examples](#Examples)
-    + [Basics](#Basics)
-    + [File](#File)
-    + [Entity Framework Core](#EntityFramework)
-    + [Login](#Login)
-    + [File](#File)
-    + [Misc](#Misc)
-+ [Credits and Attributions](#CreditsAttributions)
+
 
 
 
@@ -49,10 +43,7 @@ The code is licensed under MIT. Feel free to use it for whatever purpose.
 
 ## <a name="Examples"></a> Examples
 
-### <a name="Basics"></a> Basics
 
-
-### <a name="EntityFramework"></a> Entity Framework Core
 
 <img src="GitStuff/tick.png" width="16" height="16"> [01 - Basic Crud: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 Basic and verbose example for getting a CRUD in Blazor. This is meant as a starting 
@@ -67,23 +58,7 @@ in another table. For example, each University can have multiple courses.
 <br />
 
 
-### <a name="File"></a> File
 
-<img src="GitStuff/wip.ico" width="16" height="16"> [01 - File: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
-
-
-
-<br />
-<hr />
-
-
-
-### <a name="Login"></a> Login
-
-<br />
-<hr />
-
-### <a name="Misc"></a> Misc
 
 <img src="GitStuff/wip.ico" width="16" height="16"> [01 - Blog: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 <br />
@@ -94,14 +69,6 @@ in another table. For example, each University can have multiple courses.
 
 
 <img src="GitStuff/wip.ico" width="16" height="16"> [03 - GalleryApp: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
-<br />
-
-
-<img src="GitStuff/wip.ico" width="16" height="16"> [04 - Leasing: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
-<br />
-
-
-<img src="GitStuff/wip.ico" width="16" height="16"> [05 - Vet: ](https://github.com/FaberSanZ/Blazor-Samples/tree/master/Src/Crud) 
 <br />
 
 
